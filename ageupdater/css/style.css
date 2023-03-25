@@ -1,0 +1,15 @@
+.cke_dialog_title {
+    font-weight: bold;
+    font-size: 13px;
+    cursor: move;
+    position: relative;
+    color: #474747;
+    text-shadow: 0 1px 0 rgb(255 255 255 / 75%);
+    border-bottom: 1px solid #999;
+    padding: 6px 10px;
+    border-radius: 2px 2px 0 0;
+    box-shadow: 0 1px 0 #fff inset;
+    background: #18d218;
+    background-image: linear-gradient(to bottom,#f0f0f0,#0dff0d) !important;
+
+}
